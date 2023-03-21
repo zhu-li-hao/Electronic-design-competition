@@ -20,7 +20,7 @@ Electronic design competition:
 │  ├─STM32_Serial_Test //树莓派串口发送咽喉厚壁坐标信息至STM32   
 │  └─Total //树莓派运行的全部代码  
 └─STM32 //此文件夹存放了本项目中由STM32负责的代码
-    ├─HAL 库激光测距通信 /STM32激光测距模块的串口通信  
-    ├─HAL 激光测距 /STM32驱动激光测距模块  
-    ├─SCARA机械臂 /STM32驱动SCARA机械臂  
-    └─串口收发 /STM32的串口收发代码  
+    ├─HAL 库激光测距通信 //STM32激光测距模块的串口通信  
+    ├─HAL 激光测距 //STM32驱动激光测距模块  
+    ├─SCARA机械臂 //STM32驱动SCARA机械臂  
+    └─串口收发 //STM32的串口收发代码  
