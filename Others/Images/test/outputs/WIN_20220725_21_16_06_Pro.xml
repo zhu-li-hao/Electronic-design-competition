@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<annotation>
+<folder>test</folder>
+<filename>WIN_20220725_21_16_06_Pro.jpg</filename>
+<path>D:\tensorflow\workspace\Throat_detection2\images\test\WIN_20220725_21_16_06_Pro.jpg</path>
+<source>
+    <database>Unknown</database>
+</source>
+<size>
+    <width>1920</width>
+    <height>1080</height>
+    <depth>3</depth>
+</size>
+
+<segmented>0</segmented>
+    <object>
+    <name>throat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>982</xmin>
+        <ymin>248</ymin>
+        <xmax>1054</xmax>
+        <ymax>348</ymax>
+    </bndbox>
+</object>
+    <object>
+    <name>throat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>1306</xmin>
+        <ymin>236</ymin>
+        <xmax>1390</xmax>
+        <ymax>336</ymax>
+    </bndbox>
+</object>
+</annotation>
